@@ -14,6 +14,8 @@ Steps Taken:
 * Installed Jekyll on my local machine to generate the blog files.
 * Edited _config.yml to update title, description, twitter, github
 * Created a couple additional blog posts
+* Added a second page for links
+* Pushed changes to github
 
 # Documentation
 
